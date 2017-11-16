@@ -10,6 +10,18 @@ https://opencv.org/releases.html
 
 (check other websites for path and environment settings)
 
-## Builds
+# Builds
 
-$ g++ -Wall -c hello.cc
+$ g++ -Wall car_lane_detection.cpp -o lane_detector
+
+# Execution
+
+$ ./lane_detector
+
+# Notes
+
+Make sure to have a video sample that resembles the following examples: 
+
+
+
+
