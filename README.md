@@ -22,6 +22,7 @@ $ ./lane_detector
 
 Make sure to have a video sample that resembles the following examples: 
 
+![capture_lane_detect](https://user-images.githubusercontent.com/28642466/32882660-7207b8da-caf8-11e7-9dda-474bad2cb2d2.PNG)
 
 
 
